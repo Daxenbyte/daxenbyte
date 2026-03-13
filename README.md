@@ -1,5 +1,5 @@
 ## Greetings 👋
-I'm Daxenbyte and thats my GitHub
+I'm Daxenbyte and that's my GitHub! Here you can find some of my projects. Most of my work is private or kept locally, but feel free to check out the public ones below.
 
 ##
 ### 🖥️ Languages
